@@ -1,0 +1,13 @@
+###　learning vue
+
+learning vue
+============
+
+Markdonwとは？
+------------
+
+# pull request 空コミットで作る
+- git checkout -b topic_branch
+- git commit --allow-empty -m 'Make a pull request'
+- git push --set-upstream origin topic_branch
+https://gist.github.com/bluerabbit/9064116
